@@ -1,0 +1,10 @@
+Turtle.Show()
+Turtle.X = 60
+Turtle.Y = 150
+Turtle.TurnRight()
+Turtle.Move(100)
+Turtle.TurnLeft()
+Turtle.Move(100)
+Turtle.PenUp()
+Turtle.TurnRight()
+Turtle.Move(300)
